@@ -1,0 +1,4 @@
+[core]
+    remote = s3_data
+['remote "s3_data"']
+    url = s3://data-version/final-demo
